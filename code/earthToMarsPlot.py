@@ -1,4 +1,6 @@
 # to run this code, i created a venv and downloaded spiceypi and matplotlib into the venv
+# honestly not sure if you need to create your own venv or you can just use mine
+# i guess try both lol
 # terminal commands:
 # cd intro_to_spiceyp
 # python3 -m venv venv                 (creates a virtual env folder in this directory)
